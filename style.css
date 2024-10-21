@@ -1,0 +1,29 @@
+div {
+    height: 400px;
+    width: 400px;
+    border: 10px dotted rgb(255, 80, 147);
+    box-shadow: 20px 20px 20px rosybrown;
+    position:absolute;
+    left: 750px;
+    bottom: 250px;
+    border-radius: 20px;
+    
+}
+nav {
+    color: rgb(235, 147, 213);
+    
+}
+h1 {
+    color: rgb(226, 43, 134);
+    position:absolute;
+    left: 230px;
+    bottom: 250px;
+    border-radius: 20px; 
+}
+h2 {
+    color: rgb(226, 43, 134);
+    position:absolute;
+    left: 90px;
+    bottom: 270px;
+    border-radius: 20px;   
+}
